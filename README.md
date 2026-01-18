@@ -41,11 +41,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohanrout2023&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik35&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanrout2023&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik35&theme=tokyonight" />
 </p>
 
 
