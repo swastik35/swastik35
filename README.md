@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+with+5%2B+years+experience;Full+Stack+Developer;Love+Coding;Learning+New+Technologies&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swastik35&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 
 ### 👨‍💻 About Me
@@ -37,16 +39,5 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik35&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik35&theme=tokyonight" />
-</p>
-
 
 
