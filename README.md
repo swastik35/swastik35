@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+with+5%2B+years+experience;Full+Stack+Developer;Love+Coding;Learning+New+Technologies&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=swastik35&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 ---
@@ -23,10 +23,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/swastiksauravnayak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/swastiknayak2016">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/swastiknayak2016" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=orange" />
   </a>
 </p>
 
