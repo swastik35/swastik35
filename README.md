@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Swastik Nayak</h1>
+<h3 align="center">Backend Developer | Microservices | Java</h3>
 
-<!--
-**swastik35/swastik35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+with+5%2B+years+experience;Full+Stack+Developer;Love+Coding;Learning+New+Technologies&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working in the **Banking domain on Microservices**
+- 🌱 I’m currently learning **AI/ML, Cloud & DevOps**
+- 💬 Ask me about **Java, DSA, Spring Boot, Microservices, Kafka, SQL**
+- 📫 How to reach me: **swastiknayak2016@gmail.com**
+- ⚡ Fun fact: *Funny 😄*
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swastiksauravnayak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/swastiknayak2016">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,javascript,linux,mysql,nodejs,react" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohanrout2023&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanrout2023&theme=tokyonight" />
+</p>
+
+
+
