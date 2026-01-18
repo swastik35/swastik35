@@ -23,10 +23,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/swastiksauravnayak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="36" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/swastiknayak2016" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=orange" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" />
   </a>
 </p>
 
